@@ -8,7 +8,8 @@
 
 - The xf86 package needs to be installed as follows:
 
-``` ./configure --prefix=/usr
+```
+./configure --prefix=/usr
 make
 make install
 ```
