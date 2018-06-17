@@ -1,0 +1,6 @@
+[submodule "Linux-Magic-Trackpad-2-Driver"]
+	path = Linux-Magic-Trackpad-2-Driver
+	url = https://github.com/robotrovsky/Linux-Magic-Trackpad-2-Driver
+[submodule "xf86-input-mtrack"]
+	path = xf86-input-mtrack
+	url = https://github.com/p2rkw/xf86-input-mtrack
