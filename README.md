@@ -1,5 +1,7 @@
 # LinuxMagicTrackpad2
 
+- I am using mtrack as the Xorg driver here because it provides a lot more input granularity.
+
 ## Installing
 
 - This has been tested on Arch Linux running a 4.16.13-2 kernel.
