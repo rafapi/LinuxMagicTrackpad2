@@ -8,7 +8,9 @@
 
 - Both the Linux-Magic-Trackpad-2-Driver and xf86-input-mtrack need to be installed.
 
-- `Linux-Magic-Trackpad-2-Drive` should be installed by running `install.sh` from the scripts folder. This will take care of building and installing the driver. `Note that we need the Dynamic Kernel Module Support framework (`dkms`) installed on the system to run that script.`
+- `Linux-Magic-Trackpad-2-Drive` should be installed by running `install.sh` from the scripts folder. This will take care of building and installing the driver.
+
+    - `Note that we need the Dynamic Kernel Module Support framework (`dkms`) installed on the system to run the install script.`
 
 - `xf86-input-mtrack` needs to be installed as follows:
 
